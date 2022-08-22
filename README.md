@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 </p>
 -->
 
-Hi there 👋 
-<li>Currently working as a <strong>data analyst </strong> </li>
+Hello there 👋
+<li>Currently working as a <strong>Data Analyst </strong> </li>
 <li>Learning about <strong>Data Science </strong> : <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and  <strong>Natural Language Processing</strong> </li> 
 
   
@@ -30,7 +30,7 @@ Hi there 👋
   
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bugraekinci)
 
-[<img alt="Tableau" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"/>](https://public.tableau.com/app/profile/bugeki)
+[<img alt="Tableau" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"/>](https://public.tableau.com/app/profile/bugra)
 
   
   ![Snake animation](https://github.com/bzynpb/bzynpb/blob/output/github-contribution-grid-snake.svg)
