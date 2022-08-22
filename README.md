@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-Hello there 👋
+<strong>Hello there 👋</strong>
 <li>Currently working as a <strong>Data Analyst </strong> </li>
 <li>Learning about <strong>Data Science </strong> : <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and  <strong>Natural Language Processing</strong> </li> 
 
@@ -56,6 +56,7 @@ Hello there 👋
 ### ⚙ Tools
 
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-GoogleSheets-46a13f?style=for-the-badge&logo=GoogleSheets&logoColor=1c3c5f" alt="Google Sheets" /> </a>
+
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-c-d37e02?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" /> </a>
   <br>
 
