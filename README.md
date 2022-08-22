@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 <p align="center">
- <img src="https://github.com/bzynpb/bzynpb/blob/main/bzb.png" width="250px">
+ <img src="https://github.com/bzynpb/bzynpb/blob/main/x.png" width="250px">
 </p>
-
+-->
 
 Hi there 👋 
 <li>Currently working as a <strong>data analyst </strong> </li>
@@ -52,7 +52,6 @@ Hi there 👋
 
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-python-1c3c5f?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-MySQL-2e8e99?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/-SQLite-71a9d5?style=for-the-badge&logo=SQLite&logoColor=white" alt="SQLite" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-SQLserver-648096?style=for-the-badge&logo=SQLserver&logoColor=white"  alt="SQLserver"/> </a>
   
 ### ⚙ Tools
@@ -61,19 +60,18 @@ Hi there 👋
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-jupyter-d37e02?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-jira-168bff?style=for-the-badge&logo=jira&logoColor=white" alt="jira"  /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-slack-580847?style=for-the-badge&logo=slack&logoColor=white" alt="slack" /> </a>
-  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-AzureDocker-66e4ff?style=for-the-badge&logo=AzureDocker&logoColor=white" alt="Azure/Docker" /> </a>
   <br>
 
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=bzynpb&theme=chartreuse-dark&hide_border=true" alt="my github stats " width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bzynpb&theme=chartreuse-dark&hide_border=true" alt="my commit status " width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzynpb&theme=chartreuse-dark&layout=compact&hide_border=true" alt="languages" width="50%" > </p>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bzynpb.bzynpb" />
+<img src="https://github-readme-stats.vercel.app/api?username=bugeki&theme=chartreuse-dark&hide_border=true" alt="my github stats " width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com?user=bugeki&theme=chartreuse-dark&hide_border=true" alt="my commit status " width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugeki&theme=chartreuse-dark&layout=compact&hide_border=true" alt="languages" width="50%" > </p>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bugeki.bugeki" />
 
 
 
   
 <!--
 
-**bzynpb/bzynpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bugeki/bugeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
