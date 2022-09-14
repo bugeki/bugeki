@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 <strong>Hello there 👋</strong>
-<li>Currently working as a <strong>Data Analyst </strong> </li>
+
 <li>Learning about <strong>Data Science </strong> : <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and  <strong>Natural Language Processing</strong> </li> 
 
   
